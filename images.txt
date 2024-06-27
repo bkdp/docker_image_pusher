@@ -3,3 +3,5 @@ mediawiki
 648540858/wvp_pro
 gemcjz/wvp-pro
 wvp/wvp-pro
+redis
+zhouscloud/docker-wvp
